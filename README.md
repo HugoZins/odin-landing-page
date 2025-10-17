@@ -49,7 +49,7 @@ The reference design is provided in the form of mockups (images) including:
 ## Deployment
 
 The site can be viewed here:  
-🔗 [odin-landing-page](https://<hugozins>.github.io/<repo-name>/)
+🔗 [odin-landing-page](https://<hugozins>.github.io/<odin-landing-page>/)
 
 
 ## Technologies Used
@@ -64,4 +64,4 @@ The site can be viewed here:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<hugozins>/<repo-name>.git
+git clone https://github.com/<hugozins>/<odin-landing-page>.git
